@@ -1,13 +1,13 @@
-package com.example.graphqpl;
+package com.amigoscode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GraphqplApplication {
+public class GraphQLApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GraphqplApplication.class, args);
+        SpringApplication.run(GraphQLApplication.class, args);
     }
 
 }
